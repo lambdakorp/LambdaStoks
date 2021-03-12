@@ -1,0 +1,45 @@
+* Profile
+
+** Portifolio Summary 
+A brief summary about the actual portifolio status.
+   - Day P&L (Profit and loss - Overall average)
+   - Bigger P&L for the day
+   - Small P&L for de day
+   - Wallet score (Evaluate you wallet following the strategy that was
+     provided by the user)
+
+** Market Summary 
+A list of all user positions and the gains related for each one.
+
+** Strategy indicators 
+Contain a rank of the user stocks watchlists, evaluated by the
+strategy indicator.
+   - Stock ticket
+   - P&L (monthly maybe)
+   - Strategy indicator 
+   - Stocks watchlist 
+
+
+* Strategy 
+** Strategy 
+Rule based in multiple indicators A functin that weigth indicators to
+create a new composed value, that provide new insigths to the user.
+** Strategys 
+- List of market indicators used in the strategy 
+
+** Outlook 
+- Page where strategy is built.
+
+
+
+* Market
+
+** Wallet
+   - Performance of the portifolio stocks in the market
+
+** Graph 
+Contain a graphic with the historical stocks.
+    - Historical price
+    - Ticket 
+** Stock info
+Provide fundamentalist and short term indicators to a stock. 
