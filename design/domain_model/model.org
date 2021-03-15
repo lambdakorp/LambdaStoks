@@ -9,7 +9,8 @@ A brief summary about the actual portifolio status.
      provided by the user)
 
 ** Market Summary 
-A list of all user positions and the gains related for each one.
+
+- Market resume, presenting principal index performance
 
 ** Strategy indicators 
 Contain a rank of the user stocks watchlists, evaluated by the
@@ -24,11 +25,10 @@ strategy indicator.
 ** Strategy 
 Rule based in multiple indicators A functin that weigth indicators to
 create a new composed value, that provide new insigths to the user.
-** Strategys 
-- List of market indicators used in the strategy 
 
 ** Outlook 
-- Page where strategy is built.
+Pages containing infos about the strategy like indices and weigths
+used to build the strategy indicator.
 
 
 
@@ -39,7 +39,4 @@ create a new composed value, that provide new insigths to the user.
 
 ** Graph 
 Contain a graphic with the historical stocks.
-    - Historical price
-    - Ticket 
-** Stock info
-Provide fundamentalist and short term indicators to a stock. 
+   
