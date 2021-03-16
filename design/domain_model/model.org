@@ -1,42 +1,55 @@
 * Profile
 
-** Portifolio Summary 
-A brief summary about the actual portifolio status.
+** Portfolios Summary 
+A brief summary about the actual portfolio status.
    - Day P&L (Profit and loss - Overall average)
    - Bigger P&L for the day
-   - Small P&L for de day
+   - Small P&L for the day
    - Wallet score (Evaluate you wallet following the strategy that was
      provided by the user)
 
 ** Market Summary 
 
-- Market resume, presenting principal index performance
+- The market summary brings to the user general info's about the major
+  indexes and some custom indices like emergent countries. 
 
 ** Strategy indicators 
-Contain a rank of the user stocks watchlists, evaluated by the
+Contain a rank of the user stocks watch lists, evaluated by the
 strategy indicator.
    - Stock ticket
    - P&L (monthly maybe)
    - Strategy indicator 
-   - Stocks watchlist 
+   - Stocks watch list 
 
 
 * Strategy 
 ** Strategy 
-Rule based in multiple indicators A functin that weigth indicators to
-create a new composed value, that provide new insigths to the user.
+Rule based in multiple indicators A function that weight indicators to
+create a new composed value, that provide new insights to the user.
 
 ** Outlook 
-Pages containing infos about the strategy like indices and weigths
-used to build the strategy indicator.
 
-
+- Pages where the strategies can be displayed. A list containing all
+  available indices is sowed to the user. another Page where the
+  indicators can be combined to generate a indicator is also
+  displayed,
 
 * Market
+** Stock indicators
 
-** Wallet
-   - Performance of the portifolio stocks in the market
+- A list containing some fundamental indicators from the selected stock
+  is displayed.
 
-** Graph 
-Contain a graphic with the historical stocks.
-   
+- The stock watch list is also displayed in the Right, where the user
+  can select the stock to watch.
+
+* Wallet
+
+** Portfolios summary
+
+- A brief summary, containing the Portfolios summary, with some
+  indicators about the wallet performance.
+
+- Graphic : A historical graphic containing the historical stock price. 
+
+- wallet: Contains all the stocks currently in the wallet. 
